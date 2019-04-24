@@ -42,3 +42,32 @@ You can access preview features that are specific to the Azure Portal from the [
 Azure customers can provide feedback on the portal preview features they've tested by **_sending a smile_** in the portal or by posting ideas and suggestions on the **_Azure Portal Feedback Forum_**. You can revert to the default Azure portal by going to the [Standard Portal](https://portal.azure.com/) page.
 
 **Note**: For more information about Azure portal preview features, refer to [Get early access to the newest Azure portal features](https://azure.microsoft.com/en-us/updates/get-early-access-to-new-portal-features-2/).
+
+## General Availability (GA)
+
+Once a feature is evaluated and tested successfully, it may be released to customers as part of Azure's default product, service or feature set.
+
+In other words, the feature may be made available for all Azure customers, and a feature released to all Azure customers typically goes to **_General Availability_** or **_GA_**.
+
+![alt text](https://training.future-proof.net/assets/courseware/v1/410dbae796388c3084a6ebf7d5b6fb35/asset-v1:FP+AZ-900+2019_T1+type@asset+block/0406-service-lifecycle-bug.png)
+
+The above image outlines the general progress and process for features and bugs during product and feature development lifecycle.
+
+**Note**: It's common for features to move from Azure preview features to GA, based on customer evaluation and feedback.
+
+## Monitoring feature updates
+
+Go to the [Azure Updates](https://azure.microsoft.com/en-us/updates/) page for information about the latest updates to Azure products, services, and features, as well as product roadmaps and announcements.
+
+![alt text](https://training.future-proof.net/assets/courseware/v1/5b2040cd32ed254be3d0c324a8eb4c73/asset-v1:FP+AZ-900+2019_T1+type@asset+block/0406-service-lifecycle-updates-page.png)
+
+From the Azure updates page, you can:
+
+- View details about all Azure updates.
+- See which updates are in general availability, preview, or development.
+- Browse updates by product category or update type, by using the provided dropdown lists.
+- Search for updates by keyword by entering search terms into a text-entry field.
+- Subscribe to get Azure update notifications by RSS.
+- Access the Microsoft Connect page to read Azure product news and announcements.
+
+**Note**: For more information about Azure updates, refer to [Azure Updates](https://azure.microsoft.com/en-us/updates/).
